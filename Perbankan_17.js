@@ -1,0 +1,1 @@
+var json_Perbankan_17 = {"type":"FeatureCollection","name":"Perbankan_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"Bank BRI Baturraden"},"geometry":{"type":"Point","coordinates":[109.238043010124628,-7.358650397836175]}}]}
